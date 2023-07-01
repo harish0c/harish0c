@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I’m currently working on Natural Language Processing<br><br>🤝I’m looking to collaborate on getting insights from marketing and sales data <br><br>🌱I’m currently learning Transformers, LLM’s, LangChain<br>
+🔭I’m currently working on Natural Language Processing<br><br>🤝I’d love to work on finding hidden insights from marketing and sales data for businesses <br><br>🌱I’m currently learning Transformers, LLM’s, LangChain<br>
 
 
 ## 🌐 Socials:
