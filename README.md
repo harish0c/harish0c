@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I’m currently working on Natural Language Processing projects<br><br>📊I’d love to work on finding hidden insights from marketing and sales data for businesses <br><br>🌱I’m currently exploring more on LLM’s, LangChain and Prompt Engineering<br>
+🔭Hands on experience on handling Natural Language Processing projects<br><br>📊I’d love to work on finding hidden insights from raw data for businesses <br><br>🌱I’m currently exploring more on LLM’s, LangChain and Prompt Engineering<br>
 
 
 ## 🌐 Socials:
